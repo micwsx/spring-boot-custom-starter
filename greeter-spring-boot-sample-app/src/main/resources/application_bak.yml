@@ -1,0 +1,25 @@
+greeter:
+  user:
+    name: mic
+  morning:
+    message: morning!
+  afternoon:
+    message: afternoon!
+  evening:
+    message: evening!
+  night:
+    message: night!
+
+
+
+#    greeter:
+#      user:
+#        name: 小麦
+#      morning:
+#        message: 早上好！
+#      afternoon:
+#        message: 下午好！
+#      evening:
+#        message: 晚上好！
+#      night:
+#        message: 傍晚好！
